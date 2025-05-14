@@ -15,7 +15,7 @@
 
 ### Jornada
 
- <div> Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela Universidade Estácio, estou no 4° semestre. </div> 
+ <div> Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela Universidade Estácio, estou no 5° semestre. </div> 
  <br/>
  <div> Estou fazendo um curso de WEB Development Bootcamp (JS, HTML5, CSS3, Bootstrap, SQL, MySql, Node.js, etc) pela UDEMY. <div/><br/>
   <div> Como experiência profissional, tenho atuado na PUCRS como estagiário de suporte de TI, sendo minha primeira experiência. <div/>
