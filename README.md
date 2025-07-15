@@ -15,7 +15,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções par
     [![My Skills](https://skillicons.dev/icons?i=ts,js,java,py)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=nestjs,react,spring,nodejs,nextjs,npm.tailwind)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=nestjs,react,spring,nodejs,nextjs,npm.tailwind,react-native)](https://skillicons.dev)
 - Dados: 
 
     [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
