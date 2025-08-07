@@ -30,7 +30,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções par
 
 - **Chat online com Websockets** (https://github.com/Fabricio9227/WebSockets) > Projeto que simula a requisições de usuários à um mesmo servidor, usando uma mini aplicação WEB de troca de mensagens. Utilizado websockets.
 - **Solução Case para a V4 Companny** (https://github.com/Fabricio9227/ZappierPlanilhas) > Projeto feito para análise e conversão de dados para a aplicação WEB Zappier, onde é retirado de uma planilha integrada dentro do Zappier os dados e convertidos e separados em grupos de "com o dígito 9" e "sem o dígito 9".
-- **Cópia do Spotify em TS, React.js e React-Router** (https://github.com/Fabricio9227/Spotify-React-master) > Projeto que simula o spotify, tendo todo o design original, uma pequena base de dados para pesquisa de artistas e telas interativas.
+- **App mobile para agendamento em barbearias** (https://github.com/Fabricio9227/FSW-barber) **Vercel: https://fsw-barber-ten-roan.vercel.app/** > App web para mobile que simula agendamentos em uma barbearia. Usado Next.js, React.js, Typescript como linguagem para tipagem dos dados, Prisma ORM rodando Postgres e API do Google para Auth. 
 
 
 ![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabricio9227&show_icons=true&theme=merko)
